@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/SpiderMath/WhatsAppGroupToDiscord#readme",
   "dependencies": {
+    "@types/sharp": "^0.30.4",
     "dotenv": "^16.0.1",
     "eris": "^0.17.0",
     "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.30.7",
     "whatsapp-web.js": "^1.16.7"
   },
   "devDependencies": {
